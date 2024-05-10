@@ -1,4 +1,4 @@
-# Implementation-of-Erosion-and-Dilation
+# EX-09 Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
@@ -72,28 +72,14 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![BALA](https://github.com/BALA291/erosion--dilation/assets/120717501/1fb1eb65-2250-43e9-86ae-1c151e853642)
 
 ### Display the Eroded Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![BALA E](https://github.com/BALA291/erosion--dilation/assets/120717501/41fa0355-5ca0-4190-b735-4f00c1fcd278)
 
 ### Display the Dilated Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![BALA D](https://github.com/BALA291/erosion--dilation/assets/120717501/e5af666d-2ea4-40e2-9ba0-a374197b7822)
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
